@@ -27,4 +27,21 @@ y=30
 z=40
 print(a.format(x,y,z))
 
+l= "welcome to gmlps school and students in a class"
+k=50
+print(l)
+print(len(l))
+print("students" is not l)
+print("student" is  l)
+print(l[:-6])
+print(l[0:24])
+print(l[-20:])
+
+print(l.upper())
+print(l.lower())
+print(l.strip())
+print(l.split())
+print(l.count("to"))
+#print(l.replace("school","collage"))
+#print(l.format(k))
 
